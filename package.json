@@ -1,0 +1,11 @@
+{
+  "name": "lt-dk-calc",
+  "version": "1.0.0",
+  "description": "Light/dark calculator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Kebel",
+  "license": "ISC"
+}
